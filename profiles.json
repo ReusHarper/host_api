@@ -1,0 +1,33 @@
+{
+    "statusCode": 200,
+    "isError": false,
+    "errorInfo": null,
+    "mainInfo": [
+      {
+        "profileId": 0,
+        "name": "",
+        "modules": [
+          {
+            "moduleId": 1,
+            "name": "Usuarios",
+            "included": false
+          },
+          {
+            "moduleId": 2,
+            "name": "Perfil",
+            "included": false
+          },
+          {
+            "moduleId": 3,
+            "name": "Reportes",
+            "included": false
+          },
+          {
+            "moduleId": 14,
+            "name": "Carga de Archivos",
+            "included": false
+          }
+        ]
+      }
+    ]
+  }
